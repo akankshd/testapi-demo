@@ -11,23 +11,6 @@ Screenshots of the connection and the /catalog endpont
 
 ## Setup Instructions
 
-### 1. Clone and Setup Virtual Environment
-
-```bash
-git clone <your-repo-url>
-cd fastapi-kanopy-demo
-python -m venv venv
-source venv/bin/activate  
-pip install -r requirements.txt
-```
-
-### 2. Environment Configuration
-
-1. Copy the example environment file:
-   ```bash
-   cp .env.example .env
-   ```
-
 2. Edit `.env` and add your MongoDB credentials:
    ```
    MONGODB_USERNAME=your_mongodb_username
