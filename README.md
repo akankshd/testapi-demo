@@ -3,9 +3,9 @@
 A simple FastAPI application with MongoDB integration, connecting the endpoint just for demo
 
 Screenshots of the connection and the /catalog endpont
-<img width="840" alt="Screenshot 2025-06-17 at 4 55 51 PM" src="https://github.com/user-attachment
-<img width="509" alt="Screenshot 2025-06-17 at 4 56 42 PM" src="https://github.com/user-attachments/assets/3c2488cc-c872-454c-af37-b66f07d44f68" />
-s/assets/b25be83e-4c8b-46db-8e5d-5fc93768a1f2" />
+<img width="803" alt="Screenshot 2025-06-17 at 4 58 52 PM" src="https://github.com/user-attachments/assets/5f0515b3-00aa-4c46-b966-6d66a684f29f" />
+
+<img width="517" alt="Screenshot 2025-06-17 at 4 59 02 PM" src="https://github.com/user-attachments/assets/d12a2517-da37-4d2b-8bf2-93a01759937e" />
 
 
 
