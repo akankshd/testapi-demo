@@ -1,6 +1,12 @@
 # FastAPI MongoDB Demo
 
-A simple FastAPI application with MongoDB integration for learning purposes.
+A simple FastAPI application with MongoDB integration, connecting the endpoint just for demo
+
+Screenshots of the connection and the /catalog endpont
+<img width="840" alt="Screenshot 2025-06-17 at 4 55 51 PM" src="https://github.com/user-attachment
+<img width="509" alt="Screenshot 2025-06-17 at 4 56 42 PM" src="https://github.com/user-attachments/assets/3c2488cc-c872-454c-af37-b66f07d44f68" />
+s/assets/b25be83e-4c8b-46db-8e5d-5fc93768a1f2" />
+
 
 
 ## Setup Instructions
