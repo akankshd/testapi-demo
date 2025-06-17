@@ -20,4 +20,21 @@ wheels/
 .installed.cfg
 *.egg
 .env
+.env.local
+.env.development
+.env.production
 .DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
